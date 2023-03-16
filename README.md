@@ -9,11 +9,8 @@
 ## ÍNDICE
 
 + [Proyecto Entornos de desarrollo](#id0)
-+ [](#id1)
-+ [](#id2)
-+ [](#id3)
-+ [](#id4)
-+ [](#id5)
++ [Descripción](#id1)
++ [Anteproyecto](#id2)
 
 ### Descripción <a name=id1></a>
 
@@ -22,9 +19,3 @@ Este proyecto se va a basar en una tienda online cuyo proposito sera la venta de
 ### Anteproyecto <a name=id2></a>
 
 En el siguiente [documento](./docs/anteproyecto.md) se describirá el anteproyecto.
-
-###  <a name=id3></a>
-
-###  <a name=id4></a>
-
-###  <a name=id5></a>
