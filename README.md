@@ -21,7 +21,7 @@ Este proyecto se va a basar en una tienda online cuyo proposito sera la venta de
 
 ### Anteproyecto <a name=id2></a>
 
-En el siguiente [documento](./docs/anteproyecto.md) se describirá el anteproyecto
+En el siguiente [documento](./docs/anteproyecto.md) se describirá el anteproyecto.
 
 ###  <a name=id3></a>
 
