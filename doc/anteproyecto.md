@@ -1,6 +1,42 @@
-# Banana Shopping <a name=id0></a>
+<div align="justify">
 
-# Descripción del anteproyecto <a name=id1></a>
+# Anteproyecto - Banana Shopping
+
+<div align="center">
+<img src="../img/imagen-descriptiva-si-existe.png" />
+</div>
+
+## Índice
+
++ [Descripción del problema](#id1)
++ [Objetivo](#id2)
++ [Arquitectura y tecnologías usadas](#id3)
++ [Boceto de la solución](#id4)
+
+### Descripción del problema. <a name=id1></a>
+
+>Nota: Breve descripción.
+
+### Objetivo. <a name=id2></a>
+
+>Nota: Breve descripción de lo que se pretende hacer.
+
+
+### Arquitectura y tecnologías a utilizar. <a name=id3></a>
+
+>Nota: Breve descripción de lo que se pretende hacer.
+
+#### Boceto de la solución <a name=id4></a>
+
+>Nota: Dibujo de la solución que se va a implementar.
+
+<div align="center">
+<img src="../img/imagen-boceto.png" />
+</div>
+
+</div>
+
+# Descripción del anteproyecto 
 
   + ## Resumen.
     + El proyecto que se propone surge de querer hacer una pagina web de compras online propia para la venta de componentes informáticos principalmente en Canarias debido a la que la mayoría de empresas no realizan envios a las islas y si se hacen, el tiempo de envio es notorio o los precios elevados debido a envios express. En dicha web los clientes tendrán la capacidad de obtener sus mercancias lo antes posible y a un precio adecuado de mercado.
