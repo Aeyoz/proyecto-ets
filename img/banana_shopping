@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-22T19:50:47.813Z" agent="5.0 (X11; Ubuntu)" etag="VaMLfsXDyt5DJrEh-LoR" version="21.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-22T19:53:37.923Z" agent="5.0 (X11; Ubuntu)" etag="Y53ZYt_Bsx12MYNPqntL" version="21.0.8" type="github">
   <diagram name="Página-1" id="wk6hyWxvOF5Ek9xOepYH">
     <mxGraphModel dx="2261" dy="771" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -31,7 +31,7 @@
         <mxCell id="da8-wgiuWTvMmbdr344t-5" value="Registrarse" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-160" y="40" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="da8-wgiuWTvMmbdr344t-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="da8-wgiuWTvMmbdr344t-6" target="da8-wgiuWTvMmbdr344t-10">
+        <mxCell id="da8-wgiuWTvMmbdr344t-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;endArrow=open;endFill=0;" edge="1" parent="1" source="da8-wgiuWTvMmbdr344t-6" target="da8-wgiuWTvMmbdr344t-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="da8-wgiuWTvMmbdr344t-6" value="Mostrar producto" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -69,6 +69,15 @@
         </mxCell>
         <mxCell id="da8-wgiuWTvMmbdr344t-16" value="Confirmar compra" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="560" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="da8-wgiuWTvMmbdr344t-26" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;dashed=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="380" y="180" as="sourcePoint" />
+            <mxPoint x="540" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="da8-wgiuWTvMmbdr344t-27" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="435" y="345" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
