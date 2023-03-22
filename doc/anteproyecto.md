@@ -15,8 +15,7 @@
 
 
 ### Arquitectura y tecologías a utilizar.
-  La página web estará compuesta por un entorno de frontend compuesto por HTMl, CSS y Javascript y un entorno de backend en Python. Se decidió usar estos lenguajes debido a los siguientes motivos:
-  Con Javascript se añade una capa de personalización y utilidades en dicha página ya que permite la mejora de la experiencia del usuario en su visita.
+  La página web estará compuesta por un entorno de frontend compuesto por HTMl y CSS y un entorno de backend en Python. Se decidió usar estos lenguajes debido a los siguientes motivos:
   Se decidió usar Python debido a su amplia implementación por diversas empresas del sector.
   HTML es el esqueleto básico de cualquier página web, aunque se usará la versión más actual (HTML 5).
 <div align="center">
