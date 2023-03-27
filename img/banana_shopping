@@ -1,14 +1,17 @@
-<mxfile host="app.diagrams.net" modified="2023-03-27T17:01:18.959Z" agent="5.0 (X11; Ubuntu)" etag="2jxRhXxLlMHVqcBTtyfT" version="21.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-27T17:02:58.981Z" agent="5.0 (X11; Ubuntu)" etag="xuouE41kRqmY3g3-Xlsp" version="21.0.8" type="github">
   <diagram name="Página-1" id="wk6hyWxvOF5Ek9xOepYH">
-    <mxGraphModel dx="2261" dy="771" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2876" dy="1101" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="tcNM2798xok4u-fKp1zx-39" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-140" y="320" width="1070" height="630" as="geometry" />
+        </mxCell>
         <mxCell id="da8-wgiuWTvMmbdr344t-19" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0.1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="da8-wgiuWTvMmbdr344t-1" target="da8-wgiuWTvMmbdr344t-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="da8-wgiuWTvMmbdr344t-1" value="Cliente no registrado" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
-          <mxGeometry x="-200" y="452" width="30" height="60" as="geometry" />
+          <mxGeometry x="-200" y="436" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="da8-wgiuWTvMmbdr344t-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;endArrow=open;endFill=0;" parent="1" source="da8-wgiuWTvMmbdr344t-4" target="da8-wgiuWTvMmbdr344t-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -223,6 +226,9 @@
         </mxCell>
         <mxCell id="tcNM2798xok4u-fKp1zx-38" value="CU16" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="415" y="860" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tcNM2798xok4u-fKp1zx-40" value="Banana Shopping" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="330" y="350" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
