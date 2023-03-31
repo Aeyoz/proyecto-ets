@@ -73,7 +73,7 @@ Nuestro sistema se basa en una tienda de compras online, donde los clientes podr
 |---|---|
 | Fuentes  | Este documento |
 | Actor  |  Cliente registrado |
-| Descripción |  Metodo que permite al cliente elegir un producto para comprarlo |
+| Descripción |  Método que permite al cliente elegir un producto para comprarlo |
 | Flujo básico | El cliente realiza un pedido |
 | Pre-condiciones |  |  
 | Post-condiciones  | |  
