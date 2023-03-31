@@ -17,7 +17,7 @@ Nuestro sistema se basa en una tienda de compras online, donde los clientes podr
 | Referencias | |   
 |  Notas |   |
 | Autores  | __Marlon Farizo Hergueta y Ayoze Hernández Díaz__ |
-|Fecha | 27/03/2023 |
+|Fecha | _31/03/2023_ |
 
 |  Actor | Cliente registrado |
 |---|---|
@@ -27,7 +27,7 @@ Nuestro sistema se basa en una tienda de compras online, donde los clientes podr
 | Referencias | |   
 |  Notas |   |
 | Autores  | __Marlon Farizo Hergueta y Ayoze Hernández Díaz__ |
-|Fecha | 27/03/2023 |
+|Fecha | _31/03/2023_ |
 
 
 |  Actor | Administrador |
@@ -38,7 +38,7 @@ Nuestro sistema se basa en una tienda de compras online, donde los clientes podr
 | Referencias | |   
 |  Notas |   |
 | Autores  | __Marlon Farizo Hergueta y Ayoze Hernández Díaz__ |
-|Fecha | 27/03/2023 |
+|Fecha | _31/03/2023_ |
 
 
 | CU1 | CU1 Registrarse |
@@ -52,7 +52,7 @@ Nuestro sistema se basa en una tienda de compras online, donde los clientes podr
 |  Requerimientos |   |
 |  Notas |   |
 | Autores  | __Marlon Farizo Hergueta y Ayoze Hernández Díaz__ |
-|Fecha | 27/03/2023 |
+|Fecha | _31/03/2023_ |
 
 
 | CU2 | CU2 Asociar tarjeta|
@@ -66,7 +66,7 @@ Nuestro sistema se basa en una tienda de compras online, donde los clientes podr
 |  Requerimientos |   |
 |  Notas |   |
 | Autores  | __Marlon Farizo Hergueta y Ayoze Hernández Díaz__ |
-|Fecha | 27/03/2023 |
+|Fecha | _31/03/2023_ |
 
 
 | CU3 | CU3 Realizar Pedido |
@@ -80,7 +80,7 @@ Nuestro sistema se basa en una tienda de compras online, donde los clientes podr
 | Requerimientos |   |
 | Notas |   |
 | Autores  | __Marlon Farizo Hergueta y Ayoze Hernández Díaz__ |
-|Fecha | 27/03/2023 |
+|Fecha | _31/03/2023_ |
 
 
 | CU4 | CU4 Mostrar producto |
@@ -94,7 +94,7 @@ Nuestro sistema se basa en una tienda de compras online, donde los clientes podr
 |  Requerimientos | Estar autenticado  |
 |  Notas |   |
 | Autores  | __Marlon Farizo Hergueta y Ayoze Hernández Díaz__ |
-|Fecha | 27/03/2023 |
+|Fecha | _31/03/2023_ |
 
 
 | CU5 | CU5 Seleccionar producto |
@@ -108,7 +108,7 @@ Nuestro sistema se basa en una tienda de compras online, donde los clientes podr
 |  Requerimientos | Estar autenticado  |
 |  Notas |   |
 | Autores  | __Marlon Farizo Hergueta y Ayoze Hernández Díaz__ |
-|Fecha | 27/03/2023 |
+|Fecha | _31/03/2023_ |
 
 
 | CU6 | CU6 Comprar producto |
@@ -122,7 +122,7 @@ Nuestro sistema se basa en una tienda de compras online, donde los clientes podr
 |  Requerimientos | Estar autenticado  |
 |  Notas |   |
 | Autores  | __Marlon Farizo Hergueta y Ayoze Hernández Díaz__ |
-|Fecha | 27/03/2023 |
+|Fecha | _31/03/2023_ |
 
 
 | CU7 | CU7 Rechazar compra |
@@ -136,7 +136,7 @@ Nuestro sistema se basa en una tienda de compras online, donde los clientes podr
 | Requerimientos | Estar autenticado |
 | Notas |   |
 | Autores  | __Marlon Farizo Hergueta y Ayoze Hernández Díaz__ |
-|Fecha | 27/03/2023 |
+|Fecha | _31/03/2023_ |
 
 
 | CU8 | CU8 Confirmar compra |
@@ -150,7 +150,7 @@ Nuestro sistema se basa en una tienda de compras online, donde los clientes podr
 |  Requerimientos | Estar autenticado |
 |  Notas |   |
 | Autores  | __Marlon Farizo Hergueta y Ayoze Hernández Díaz__ |
-|Fecha | 27/03/2023 |
+|Fecha | _31/03/2023_ |
 
 
 | CU9 | CU9 Verificar saldo |
@@ -164,7 +164,7 @@ Nuestro sistema se basa en una tienda de compras online, donde los clientes podr
 |  Requerimientos | Estar autenticado |
 |  Notas |   |
 | Autores  | __Marlon Farizo Hergueta y Ayoze Hernández Díaz__ |
-|Fecha | 27/03/2023 |
+|Fecha | _31/03/2023_ |
 
 
 | CU10 | CU10 Verificar stock |
@@ -178,7 +178,7 @@ Nuestro sistema se basa en una tienda de compras online, donde los clientes podr
 |  Requerimientos |   |
 |  Notas |   |
 | Autores  | __Marlon Farizo Hergueta y Ayoze Hernández Díaz__ |
-|Fecha | 27/03/2023 |
+|Fecha | _31/03/2023_ |
 
 # CU de administrador:
 
@@ -193,7 +193,7 @@ Nuestro sistema se basa en una tienda de compras online, donde los clientes podr
 |  Requerimientos | Haber realizado una autenticación  |
 |  Notas |   |
 | Autores  | __Marlon Farizo Hergueta y Ayoze Hernández Díaz__ |
-|Fecha | 27/03/2023 |
+|Fecha | _31/03/2023_ |
 
 
 | CU12 | CU12 Añadir productos |
@@ -207,7 +207,7 @@ Nuestro sistema se basa en una tienda de compras online, donde los clientes podr
 |  Requerimientos | Haber realizado una autenticación  |
 |  Notas |   |
 | Autores  | __Marlon Farizo Hergueta y Ayoze Hernández Díaz__ |
-|Fecha | 27/03/2023 |
+|Fecha | _31/03/2023_ |
 
 
 | CU13 | CU13 Modificar productos |
@@ -221,7 +221,7 @@ Nuestro sistema se basa en una tienda de compras online, donde los clientes podr
 |  Requerimientos | Haber realizado una autenticación  |
 |  Notas |   |
 | Autores  | __Marlon Farizo Hergueta y Ayoze Hernández Díaz__ |
-|Fecha | 27/03/2023 |
+|Fecha | _31/03/2023_ |
 
 
 | CU14 | CU14 Añadir usuarios |
@@ -235,7 +235,7 @@ Nuestro sistema se basa en una tienda de compras online, donde los clientes podr
 |  Requerimientos | Haber realizado una autenticación  |
 |  Notas |   |
 | Autores  | __Marlon Farizo Hergueta y Ayoze Hernández Díaz__ |
-|Fecha | 27/03/2023 |
+|Fecha | _31/03/2023_ |
 
 
 | CU15 | CU15 Eliminar usuarios |
@@ -249,7 +249,7 @@ Nuestro sistema se basa en una tienda de compras online, donde los clientes podr
 |  Requerimientos |  Haber realizado una autenticación |
 |  Notas |   |
 | Autores  | __Marlon Farizo Hergueta y Ayoze Hernández Díaz__ |
-|Fecha | 27/03/2023 |
+|Fecha | _31/03/2023_ |
 
 
 | CU16 | CU16 Modificar usuarios |
@@ -263,7 +263,7 @@ Nuestro sistema se basa en una tienda de compras online, donde los clientes podr
 |  Requerimientos |  Haber realizado una autenticación |
 |  Notas |   |
 | Autores  | __Marlon Farizo Hergueta y Ayoze Hernández Díaz__ |
-|Fecha | 27/03/2023 |
+|Fecha | _31/03/2023_ |
 
 
 | Cu | CU17 Autenticarse |
@@ -277,7 +277,7 @@ Nuestro sistema se basa en una tienda de compras online, donde los clientes podr
 |  Requerimientos | Estar registrado en el sistema |
 |  Notas |   |
 | Autores  | __Marlon Farizo Hergueta y Ayoze Hernández Díaz__ |
-|Fecha | 27/03/2023 |
+|Fecha | _31/03/2023_ |
 
 
 </div>
