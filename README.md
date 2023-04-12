@@ -1,6 +1,6 @@
 # Proyecto Entornos de desarrollo <a name=id0></a>
 
-**Nombres:** [Ayoze Hernández Díaz.](https://github.com/ElPayo) y [Marlon Farizo Hergueta](https://github.com/marlonfrz)
+**Nombres:** [Ayoze Hernández Díaz](https://github.com/ElPayo) y [Marlon Farizo Hergueta](https://github.com/marlonfrz)
 
 **Curso:** 1º Desarrollo de Aplicaciones Web.
 
