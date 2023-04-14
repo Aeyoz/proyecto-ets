@@ -3,5 +3,5 @@
 # Banana Shopping:
 
 <div align="center">
-  <img src="../img/diagrama_cl.png"/>
+  <img src="../img/diagrama_clases.png"/>
 </div>
