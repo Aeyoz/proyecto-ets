@@ -14,7 +14,7 @@ Nuestro sistema se basa en una tienda de compras online, donde los clientes podr
 | Descripción  | Cliente que entra a la aplicación a ojear los productos y ofertas.  |
 | Características  |  |
 | Relaciones | No tiene relaciones con otros actores  |
-| Referencias | |   
+| Referencias | CU1, CU2 |   
 |  Notas |   |
 | Autores  | __Marlon Farizo Hergueta y Ayoze Hernández Díaz__ |
 |Fecha | _31/03/2023_ |
@@ -24,7 +24,7 @@ Nuestro sistema se basa en una tienda de compras online, donde los clientes podr
 | Descripción  | Cliente que ya está registrado en la aplicación  |
 | Características  |  |
 | Relaciones | cliente no registrado  |
-| Referencias | |   
+| Referencias | CU3, CU4, CU5, CU6, CU7, CU8, CU9, CU10, CU17 |   
 |  Notas |   |
 | Autores  | __Marlon Farizo Hergueta y Ayoze Hernández Díaz__ |
 |Fecha | _31/03/2023_ |
@@ -35,7 +35,7 @@ Nuestro sistema se basa en una tienda de compras online, donde los clientes podr
 | Descripción  | Administrador que se encarga de gestionar la aplicación  |
 | Características  |  |
 | Relaciones |   |
-| Referencias | |   
+| Referencias | CU11, CU12, CU13, CU14, CU15, CU16, CU17 |   
 |  Notas |   |
 | Autores  | __Marlon Farizo Hergueta y Ayoze Hernández Díaz__ |
 |Fecha | _31/03/2023_ |
