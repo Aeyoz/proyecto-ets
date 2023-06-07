@@ -29,3 +29,4 @@ def test_change_email(first_person, email="elpayo56@gmail.com")
 def test_str(first_person):
     assert f"{first_person.name} with code: {first_person.code}"
 
+'https://prod.liveshare.vsengsaas.visualstudio.com/join?784E86228A925A29B49D9849B57053403073'
