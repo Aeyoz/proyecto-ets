@@ -22,7 +22,7 @@ def test_change_address(second_person, address="Calle vieja pero nueva"):
     second_person.address_change(address)
     assert second_person.address == address
 
-def test_change_email(first_person, email="elpayo56@gmail.com")
+def test_change_email(first_person, email="elpayo56@gmail.com"):
     first_person.email_change(email)
     assert first_person.email == email
 
